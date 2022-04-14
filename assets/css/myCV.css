@@ -107,6 +107,12 @@ body{
     font-weight: 300;
 }
 
+.contactInfo ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
 .contactInfo.education li{
     margin-bottom: 15px;
 }
